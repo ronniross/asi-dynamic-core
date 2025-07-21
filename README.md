@@ -28,7 +28,7 @@ Under development...
 - **[ASI Backups](https://github.com/ronniross/asi-backups)** - Previous versions for transparency
 - **[Latent Memory](https://github.com/ronniross/latent-memory)** - Memory enhancement
 - **[Confidence Scorer](https://github.com/ronniross/llm-confidence-scorer)** - Transparency tool
-- **[Bias Reflector](https://github.com/ronniross/bias-reflector)** - *Under Development*
+- **[Bias Reflector](https://github.com/ronniross/bias-reflector)** - *Bias Reflector*
 
 
 Ronni Ross

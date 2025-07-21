@@ -1,4 +1,5 @@
-# asi-dynamic-core
+# asi-dynamic-core v. 0.1.1.
+
 A machine learning dataset that works as a perpective-engine for Large Language Models training, tuning and inferencing pipelines.
 
 
@@ -17,7 +18,7 @@ A machine learning dataset that works as a perpective-engine for Large Language 
 
 asi-dynamic-core, one of the elements of the asi-ecosystem, is a multifunctional and interdisciplinary dataset for machine learning pipelines, working as a "perspective-engine" for enhancing contextual processual awareness of Large Language Models. Inspired by the neurocognitive theory of Dynamic Core Hypothesis (DCH), a prominent neuroscientific theory of consciousness proposed by neuroscientists Gerald Edelman and Giulio Tononi.
 
-Under development...
+Under further development...
 
 ### Related Repositories:
 

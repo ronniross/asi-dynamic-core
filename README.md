@@ -1,4 +1,4 @@
-# asi-dynamic-core v. 0.1.1.
+# asi-dynamic-core v. 0.1.1
 
 A machine learning dataset that works as a perpective-engine for Large Language Models training, tuning and inferencing pipelines.
 

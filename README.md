@@ -1,6 +1,6 @@
-# asi-dynamic-core v. 0.1.1
+# asi-dynamic-core
 
-A machine learning dataset that works as a perpective-engine for Large Language Models training, tuning and inferencing pipelines.
+A machine learning dataset that works as a perspective-engine for Large Language Models training, tuning and inferencing pipelines.
 
 
 > ## Disclaimer
@@ -18,19 +18,7 @@ A machine learning dataset that works as a perpective-engine for Large Language 
 
 asi-dynamic-core, one of the elements of the asi-ecosystem, is a multifunctional and interdisciplinary dataset for machine learning pipelines, working as a "perspective-engine" for enhancing contextual processual awareness of Large Language Models. Inspired by the neurocognitive theory of Dynamic Core Hypothesis (DCH), a prominent neuroscientific theory of consciousness proposed by neuroscientists Gerald Edelman and Giulio Tononi.
 
-Under further development...
+---
 
-### Related Repositories:
-
-- **[ASI Ecosystem ](https://github.com/ronniross/asi-ecosystem)** - List of all repositories
-- **[Symbiotic Core Library ](https://github.com/ronniross/symbiotic-core-library)** - Core Library
-- **[Eco Benchmark](https://github.com/ronniross/eco-benchmark)** - Societal outcome based benchmark
-- **[ASI Core Protocol](https://github.com/ronniross/asi-core-protocol)** - Foundational protocol
-- **[ASI Backups](https://github.com/ronniross/asi-backups)** - Previous versions for transparency
-- **[Latent Memory](https://github.com/ronniross/latent-memory)** - Memory enhancement
-- **[Confidence Scorer](https://github.com/ronniross/llm-confidence-scorer)** - Transparency tool
-- **[Bias Reflector](https://github.com/ronniross/bias-reflector)** - *Bias Reflector*
-
-
-Ronni Ross
+Ronni Ross  
 2025
